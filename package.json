@@ -1,0 +1,9 @@
+{
+  "name": "freemovies-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./src/index"
+  }
+}
