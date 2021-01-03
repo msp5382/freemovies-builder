@@ -1,1 +1,3 @@
 /node_modules
+/public/indexCached.json
+/public/movie.json
